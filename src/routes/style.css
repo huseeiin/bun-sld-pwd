@@ -1,0 +1,12 @@
+input,
+button {
+  display: block;
+  margin-bottom: 1em;
+}
+* {
+  font-family: sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
